@@ -5,6 +5,8 @@ subtitle: Periyava Anugraha Bhashanam
 gh-repo: sudharshun/sudharshun.github.io
 tags: [post][periyava]
 ---
+# Mahaswamigal Jayanthi Mahotsavam 2021
+## Periyava Anugraha Bhashanam
 
 With humble prayers to the divine feet of his Holiness. 
 Translation/Notes from Anugraha Bhashanam Delivered on May 26,2021 on the 
@@ -82,7 +84,7 @@ fundamentalism
 
 - People are getting guru darisana from everywhere
 
-Anugraha Bhashanam (https://www.youtube.com/watch?v=sVgwocZNqkA)
+[Anugraha Bhashanam](https://www.youtube.com/watch?v=sVgwocZNqkA)
 
 
 
